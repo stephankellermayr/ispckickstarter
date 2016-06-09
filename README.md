@@ -23,4 +23,7 @@ Download the following files (same directory):
 ## Notes
 - If something goes wrong, you can check the file `ispckickstarter.log` where all the tasks and console-output is stored.
 - The installer will autogenerate the required passwords and writes them into `ispckickstarter.pwd` during the installation.
-- The roundcube-installer is currently not available (it is not available in debian jessie right now), so you have to install it manually. 
+- The roundcube-installer is currently not available (it is not available in debian jessie right now), so you have to install it by yourself and squirrelmail needs to be configured manually too.
+
+## Preview
+You can watch the installer [here](https://www.youtube.com/watch?v=icTxKvddcBg).
